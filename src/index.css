@@ -1,0 +1,8 @@
+@tailwind base;
+
+p {
+  @apply text-lg;
+}
+
+@tailwind components;
+@tailwind utilities;
